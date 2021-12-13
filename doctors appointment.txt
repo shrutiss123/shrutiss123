@@ -1,0 +1,17 @@
+Doctors Appointment:
+
+Prerequiste:
+
+1.Go to the official page of the hospital
+2.check the time slots 
+
+Scenario:
+
+1. Select appointment type
+2. Select Consultant type
+3.patients details
+4. doctor name
+5. Select doctors  date and time slot
+6. Tell about problem
+7.Message to patient
+8.Appointment succesfull
